@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "localf")(type "KiCad")(uri "/Users/rafalrozestwinski/Documents/KiCad/easyeda2kicad/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "localf2")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
+)
